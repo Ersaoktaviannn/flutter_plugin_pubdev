@@ -1,16 +1,13 @@
-# flutter_plugin_pubdev
+## ERSA OKTAVIAN RAMADAN 
+## 2241720208
+## TI 3C - 09
 
-A new Flutter project.
+## MANAJEMEN PLUGIN
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+![image](https://github.com/user-attachments/assets/02a74fd7-c40b-4a44-9b62-f77e0378f08e)
 
-A few resources to get you started if this is your first Flutter project:
+![image](https://github.com/user-attachments/assets/b775a8d7-f7f6-4b68-b0d3-b40d70dbd6cd)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![image](https://github.com/user-attachments/assets/4a2a3241-f591-4e7a-9f11-0ac0367a2ac4)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
